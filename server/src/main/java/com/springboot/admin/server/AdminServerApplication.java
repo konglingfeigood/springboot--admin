@@ -15,7 +15,6 @@ import org.springframework.context.annotation.Configuration;
  */
 @SpringBootApplication
 @Configuration
-@EnableAutoConfiguration
 @EnableAdminServer  //admin 服务端注解
 public class AdminServerApplication {
 
